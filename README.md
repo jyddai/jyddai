@@ -8,7 +8,7 @@
 
 - 🧰 [普通人 AI 工具箱（ai-tools-for-everyone）](https://github.com/jyddai/ai-tools-for-everyone)：按用途分类的工具清单，每项一句话说明用途，附上手步骤和上游官方链接。
 - 🌐 网站：[jyddai.com](https://jyddai.com)
-- 📚 知识星球：「江洋大稻AI」【待补：星球链接】
+- 📚 知识星球：[「江洋大稻AI」](https://wx.zsxq.com/group/51114258248154)
 
 ## 公开项目
 
